@@ -14,7 +14,8 @@ POO - Práctica N°3 realizada en JAVA con IDE Apache Netbeans.
     - Archivos.
     - Serialización.
     - Herencia & Polimorfismo.
-    - Se suman, a su vez, los conceptos tratados en los repositorios 'POO_PracticaEnJava_1' y 'POO_PracticaEnJava_2'.
+    
+Se suman, a su vez, los conceptos tratados en los repositorios 'POO_PracticaEnJava_1' y 'POO_PracticaEnJava_2'.
    
 --------------------------------------------------------
 
